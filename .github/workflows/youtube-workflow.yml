@@ -1,1 +1,18 @@
 
+name: Latest stack overflow activity
+on:
+  schedule:
+    # Runs at the end of the day
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme-with-youtube-videos:
+    name: Update this repo's README with latest videos on the channel
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "Updated readme with the latest videos on the channel"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC96jD91_XC7k5julp1y7x7A"
