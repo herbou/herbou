@@ -1,8 +1,7 @@
 
 ### Hi there, I'm Hamza 👋
 
-## I'm a game developer and a graphic designer
-## I love drawing and arts in general 💕
+## I'm a game developer and a graphic designer. love drawing and arts in general 💕
 
 ### Connect with me:
 
