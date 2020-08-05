@@ -3,7 +3,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     # Runs at the end of the day
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-readme-with-youtube-videos:
