@@ -19,6 +19,11 @@ I love drawing and arts in general 💕
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unity Reward System [ part 3 ], Admob Ads integration](https://www.youtube.com/watch?v=upBMDFzEUPw)
+- [Unity Reward System [ part 2 ], Simulate watching Ads for Editor](https://www.youtube.com/watch?v=96yqm0xyVhU)
+- [Unity Reward System [ part 1 ], UI design](https://www.youtube.com/watch?v=-ck6idM3htY)
+- [Unity Draw Line Renderers with Physics, like Love balls game](https://www.youtube.com/watch?v=KojYeZwEPyQ)
+- [Unity Shopping System (Part 7) Last, Fx & Scroll things](https://www.youtube.com/watch?v=-W2VR2fGYKE)
 <!-- YOUTUBE:END -->
 
 ---
