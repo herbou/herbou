@@ -1,8 +1,8 @@
 name: Latest videos in the channel
 on:
   schedule:
-    # Runs every 5min
-    - cron: '*/5 * * * *'
+    # Runs at end of the day
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
