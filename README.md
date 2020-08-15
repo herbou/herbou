@@ -18,7 +18,7 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Unity Get real date & time 🕛 from internet](https://www.youtube.com/watch?v=uJK1ajLaq6I)
+- [Unity get real date & time 🕛 from internet](https://www.youtube.com/watch?v=uJK1ajLaq6I)
 - [Unity Reward System [ part 3 ], Admob Ads integration](https://www.youtube.com/watch?v=upBMDFzEUPw)
 - [Unity Reward System [ part 2 ], Simulate watching Ads for Editor](https://www.youtube.com/watch?v=96yqm0xyVhU)
 - [Unity Reward System [ part 1 ], UI design](https://www.youtube.com/watch?v=-ck6idM3htY)
