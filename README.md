@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity daily reward 🎁 system [ Part 4/4 ], Auto check & FX](https://www.youtube.com/watch?v=TDy0sqKnX04)
+- [Unity daily reward 🎁 system [ Part 3/4 ], Rewards delay 🕛](https://www.youtube.com/watch?v=h3NCk6qPpPM)
+- [Unity daily reward 🎁 system [ Part 2/4 ], Rewards database](https://www.youtube.com/watch?v=1ZYRsHUzHyQ)
+- [Unity daily reward 🎁 system [ Part 1/4 ], UI design](https://www.youtube.com/watch?v=9Zt07OSb0YQ)
 - [Unity get real date & time 🕛 from internet](https://www.youtube.com/watch?v=uJK1ajLaq6I)
-- [Unity Reward System [ part 3 ], Admob Ads integration](https://www.youtube.com/watch?v=upBMDFzEUPw)
-- [Unity Reward System [ part 2 ], Simulate watching Ads for Editor](https://www.youtube.com/watch?v=96yqm0xyVhU)
-- [Unity Reward System [ part 1 ], UI design](https://www.youtube.com/watch?v=-ck6idM3htY)
-- [Unity Draw Line Renderers with Physics, like Love balls game](https://www.youtube.com/watch?v=KojYeZwEPyQ)
 <!-- YOUTUBE:END -->
 
 ---
