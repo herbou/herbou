@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Hamza 👋
 
 ## I'm a game developer and a graphic designer. I love drawing and arts in general 💕
@@ -11,6 +10,7 @@
 [<img align="left" alt="Hamza Herbou | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Hamza Herbou | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="Hamza Herbou | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="Hamza Herbou | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
 
@@ -35,3 +35,4 @@
 [facebook]: https://facebook.com/h.nexus.h
 [dribbble]: https://dribbble.com/herbou
 [behance]: https://behance.net/hamza_herbou
+[codepen]: https://codepen.io/HamzaHerbou
