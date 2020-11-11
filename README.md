@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Popup window in Unity [ Part 4 : Fixing a problem ]](https://www.youtube.com/watch?v=pCXUYmObz-M)
+- [Popup window in Unity [ Part 3 : Events & Styling ]](https://www.youtube.com/watch?v=8nGsJUsuP9U)
+- [Popup window in Unity [ Part 2 : Coding ]](https://www.youtube.com/watch?v=vTMi6hb3QF0)
+- [Popup window in Unity [ Part 1 : UI Design ]](https://www.youtube.com/watch?v=ZBxRRAr9hDA)
 - [Advanced PlayerPrefs in Unity](https://www.youtube.com/watch?v=wqRYdFcfiVw)
-- [Unity daily reward 🎁 system [ Part 4/4 ], Auto check & FX](https://www.youtube.com/watch?v=TDy0sqKnX04)
-- [Unity daily reward 🎁 system [ Part 3/4 ], Rewards delay 🕛](https://www.youtube.com/watch?v=h3NCk6qPpPM)
-- [Unity daily reward 🎁 system [ Part 2/4 ], Rewards database](https://www.youtube.com/watch?v=1ZYRsHUzHyQ)
-- [Unity daily reward 🎁 system [ Part 1/4 ], UI design](https://www.youtube.com/watch?v=9Zt07OSb0YQ)
 <!-- YOUTUBE:END -->
 
 ---
