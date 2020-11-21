@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Custom UI Toggle ○●](https://www.youtube.com/watch?v=fRqqef8246Q)
 - [Unity check for game new updates, [ Upgrade popup ]](https://www.youtube.com/watch?v=z-H37N6Mjlk)
 - [Unity Confirm Popup UI, [ Ready to use ]](https://www.youtube.com/watch?v=xqx6BmaWOx0)
 - [Popup window in Unity [ Part 4 : Fixing a problem ]](https://www.youtube.com/watch?v=pCXUYmObz-M)
 - [Popup window in Unity [ Part 3 : Events & Styling ]](https://www.youtube.com/watch?v=8nGsJUsuP9U)
-- [Popup window in Unity [ Part 2 : Coding ]](https://www.youtube.com/watch?v=vTMi6hb3QF0)
 <!-- YOUTUBE:END -->
 
 ---
