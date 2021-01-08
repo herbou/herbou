@@ -18,7 +18,7 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Unity - Add animation events⚡ in C#](https://www.youtube.com/watch?v=3EEVG1nwLW8)
+- [Unity - Animation Events⚡ in C#](https://www.youtube.com/watch?v=3EEVG1nwLW8)
 - [Level progress bar in Unity](https://www.youtube.com/watch?v=4pNd-A05faM)
 - [Concurrent Collisions in Unity](https://www.youtube.com/watch?v=BjBF8BZuH4k)
 - [Unity - delay a code (no more Invoke)](https://www.youtube.com/watch?v=Y8yq9fBU4hI)
