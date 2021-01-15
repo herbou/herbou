@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity - Settings System 🛠](https://www.youtube.com/watch?v=mdV_LPB1Ahc)
 - [Joysticks 🕹 in Unity , Easy to use](https://www.youtube.com/watch?v=J3lZr6NRkiA)
 - [Animate LineRenderer〰️ in Unity](https://www.youtube.com/watch?v=RMM3BAick4I)
 - [Unity - Animation Events⚡ in C#](https://www.youtube.com/watch?v=3EEVG1nwLW8)
 - [Level progress bar in Unity](https://www.youtube.com/watch?v=4pNd-A05faM)
-- [Concurrent Collisions in Unity](https://www.youtube.com/watch?v=BjBF8BZuH4k)
 <!-- YOUTUBE:END -->
 
 ---
