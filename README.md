@@ -18,7 +18,7 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Unity - Settings System 🛠](https://www.youtube.com/watch?v=mdV_LPB1Ahc)
+- [Settings UI System 🛠 in Unity](https://www.youtube.com/watch?v=mdV_LPB1Ahc)
 - [Joysticks 🕹 in Unity , Easy to use mobile touch controller](https://www.youtube.com/watch?v=J3lZr6NRkiA)
 - [Animate LineRenderer〰️ in Unity](https://www.youtube.com/watch?v=RMM3BAick4I)
 - [Unity - Animation Events⚡ in C#](https://www.youtube.com/watch?v=3EEVG1nwLW8)
