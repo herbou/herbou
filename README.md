@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Random class [ Add randomness to your game ]](https://www.youtube.com/watch?v=2srKaAIQumk)
 - [Unity Timers⏰ #2](https://www.youtube.com/watch?v=hCATjF4-3XM)
 - [Unity Timers⏰ #1](https://www.youtube.com/watch?v=xIRQyHWGeE0)
 - [Settings UI System 🛠 in Unity](https://www.youtube.com/watch?v=mdV_LPB1Ahc)
 - [Joysticks 🕹 in Unity , Easy to use mobile touch controller](https://www.youtube.com/watch?v=J3lZr6NRkiA)
-- [Animate LineRenderer〰️ in Unity](https://www.youtube.com/watch?v=RMM3BAick4I)
 <!-- YOUTUBE:END -->
 
 ---
