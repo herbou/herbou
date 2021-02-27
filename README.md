@@ -21,8 +21,8 @@
 - [Unity Random class [ Probability & Chances ]](https://www.youtube.com/watch?v=zw1OERK5xvU)
 - [Unity Random class [Shuffle Arrays & Lists]](https://www.youtube.com/watch?v=rGuHX11ylkU)
 - [Unity Random class [ Add randomness to your game ]](https://www.youtube.com/watch?v=2srKaAIQumk)
-- [Unity Timers⏰ #2](https://www.youtube.com/watch?v=hCATjF4-3XM)
-- [Unity Timers⏰ #1](https://www.youtube.com/watch?v=xIRQyHWGeE0)
+- [How to make countdown timers⏰ - Unity Tutorial #2](https://www.youtube.com/watch?v=hCATjF4-3XM)
+- [How to make countdown timers⏰ - Unity Tutorial #1](https://www.youtube.com/watch?v=xIRQyHWGeE0)
 <!-- YOUTUBE:END -->
 
 ---
