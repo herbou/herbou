@@ -26,9 +26,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+<div>
 <img align="left" alt="hamza herbou Github Stats" src="https://github-readme-stats.vercel.app/api?username=herbou&show_icons=true&hide_border=true" />
-#
+</div>
 <br>
 
 <br><br>
