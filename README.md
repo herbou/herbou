@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity tutorial - How to make Tic Tac Toe game [ Part 2 ]](https://www.youtube.com/watch?v=nRlf47js_lE)
+- [Unity tutorial - How to make Tic Tac Toe game [ Part 1 ]](https://www.youtube.com/watch?v=t6rrTYR221w)
 - [Unity Shopping System (Part 8), Skins - use Prefabs instead of a Sprite](https://www.youtube.com/watch?v=TiJZIC4lM0A)
 - [Unity Random class [ Probability & Chances ]](https://www.youtube.com/watch?v=zw1OERK5xvU)
 - [Unity Random class [Shuffle Arrays & Lists]](https://www.youtube.com/watch?v=rGuHX11ylkU)
-- [Unity Random class [ Add randomness to your game ]](https://www.youtube.com/watch?v=2srKaAIQumk)
-- [How to make countdown timers⏰ - Unity Tutorial #2](https://www.youtube.com/watch?v=hCATjF4-3XM)
 <!-- YOUTUBE:END -->
 
 ---
