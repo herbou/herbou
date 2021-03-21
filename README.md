@@ -27,17 +27,7 @@
 
 ---
 
-<img align="left" alt="hamza herbou Github Stats" src="https://github-readme-stats.vercel.app/api?username=herbou&show_icons=true&hide_border=true" />
-
-[youtube]: https://youtube.com/hamza-herbou
-[instagram]: https://instagram.com/hamza_herbou
-[linkedin]: https://www.linkedin.com/in/hamza-herbou-a39955152/
-[facebook]: https://facebook.com/h.nexus.h
-[dribbble]: https://dribbble.com/herbou
-[behance]: https://behance.net/hamza_herbou
-[codepen]: https://codepen.io/HamzaHerbou
-
-
+<img align="left" alt="hamza herbou Github Stats" src="https://github-readme-stats.vercel.app/api?username=herbou&show_icons=true&hide_border=true" /><br>
 
 <br><br>
 ## ❤️ Donate
@@ -47,3 +37,13 @@
 <a href="https://www.buymeacoffee.com/hamzaherbou" title="https://www.buymeacoffee.com/hamzaherbou" target="_blank"><img align="left" height="50" src="https://www.mediafire.com/convkey/66bc/dg3xdk96km1pt7gzg.jpg" alt="BuyMeACoffee"></a>
 
 <a href="https://patreon.com/herbou" title="https://patreon.com/herbou" target="_blank"><img align="left" height="50" src="https://www.mediafire.com/convkey/dc61/9kn26we5y76t8vlzg.jpg" alt="Patreon"></a>
+
+
+[youtube]: https://youtube.com/hamza-herbou
+[instagram]: https://instagram.com/hamza_herbou
+[linkedin]: https://www.linkedin.com/in/hamza-herbou-a39955152/
+[facebook]: https://facebook.com/h.nexus.h
+[dribbble]: https://dribbble.com/herbou
+[behance]: https://behance.net/hamza_herbou
+[codepen]: https://codepen.io/HamzaHerbou
+
