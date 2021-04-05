@@ -18,10 +18,10 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Unity Admob Ads - Control Ads from a JSON file (SERVER)](https://www.youtube.com/watch?v=g_1WrMOOunY)
-- [Unity Admob Ads - Reward AD](https://www.youtube.com/watch?v=wx1yMjjdW_0)
-- [Unity Admob Ads - Interstitial AD](https://www.youtube.com/watch?v=BhZm2LHEPKU)
-- [Unity Admob Ads - Banner AD](https://www.youtube.com/watch?v=0VJJyVYQxtk)
+- [Unity Admob Ads - Remote Control Ads from a Server (JSON) [Part #4]](https://www.youtube.com/watch?v=g_1WrMOOunY)
+- [Unity Admob Ads - Reward AD [Part #3]](https://www.youtube.com/watch?v=wx1yMjjdW_0)
+- [Unity Admob Ads - Interstitial AD [Part #2]](https://www.youtube.com/watch?v=BhZm2LHEPKU)
+- [Unity Admob Ads - Banner AD [Part #1]](https://www.youtube.com/watch?v=0VJJyVYQxtk)
 - [Unity tutorial - How to make Tic Tac Toe game [ Part 2 ]](https://www.youtube.com/watch?v=nRlf47js_lE)
 <!-- YOUTUBE:END -->
 
