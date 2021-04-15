@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Toast UI - Cross Platform Toast](https://www.youtube.com/watch?v=405lXPINdx0)
 - [Pottery tutorial in Unity, Part 2](https://www.youtube.com/watch?v=vkwygAt4MgQ)
 - [Pottery tutorial in Unity, Part 1](https://www.youtube.com/watch?v=U7T-aXBkSr4)
 - [Unity Tutorial - Captcha System](https://www.youtube.com/watch?v=-k7N3naxeeM)
 - [Unity Admob Ads - Remote Control Ads from a Server (JSON) [Part #4]](https://www.youtube.com/watch?v=g_1WrMOOunY)
-- [Unity Admob Ads - Reward AD [Part #3]](https://www.youtube.com/watch?v=wx1yMjjdW_0)
 <!-- YOUTUBE:END -->
 
 ---
