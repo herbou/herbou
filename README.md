@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Tutorial - Hyper casual game [ Part 4 ]](https://www.youtube.com/watch?v=L5CEESlTx2k)
+- [Unity Tutorial - Hyper casual game [ Part 3  ]](https://www.youtube.com/watch?v=7JuqoLWHc6s)
+- [Unity Tutorial - Hyper casual game [ Part 2  ]](https://www.youtube.com/watch?v=xb8JCov3Khs)
 - [Unity Tutorial - Hyper casual game [ Part 1  ]](https://www.youtube.com/watch?v=BYuiy8x2sTE)
 - [Unity Toast UI - Cross Platform Toast](https://www.youtube.com/watch?v=405lXPINdx0)
-- [Pottery tutorial in Unity, Part 2](https://www.youtube.com/watch?v=vkwygAt4MgQ)
-- [Pottery tutorial in Unity, Part 1](https://www.youtube.com/watch?v=U7T-aXBkSr4)
-- [Unity Tutorial - Captcha System](https://www.youtube.com/watch?v=-k7N3naxeeM)
 <!-- YOUTUBE:END -->
 
 ---
