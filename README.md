@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Parchisi clone made with Unity #shorts](https://www.youtube.com/watch?v=y--TnirhBS4)
 - [Dots and Boxes game made with Unity #shorts](https://www.youtube.com/watch?v=bJ83iYe30_k)
 - [Mega Cubes Game - Made with Unity  #shorts](https://www.youtube.com/watch?v=l3Bt4VrObiY)
 - [Unity Tutorial - Hyper casual game [ Part 4 ]](https://www.youtube.com/watch?v=L5CEESlTx2k)
 - [Unity Tutorial - Hyper casual game [ Part 3  ]](https://www.youtube.com/watch?v=7JuqoLWHc6s)
-- [Unity Tutorial - Hyper casual game [ Part 2  ]](https://www.youtube.com/watch?v=xb8JCov3Khs)
 <!-- YOUTUBE:END -->
 
 ---
