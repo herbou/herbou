@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Tutorial - Easy Popup integration - Free Package](https://www.youtube.com/watch?v=TL8OQ8tc-gs)
 - [Parchisi clone made with Unity #shorts](https://www.youtube.com/watch?v=y--TnirhBS4)
 - [Dots and Boxes game made with Unity #shorts](https://www.youtube.com/watch?v=bJ83iYe30_k)
 - [Mega Cubes Game - Made with Unity  #shorts](https://www.youtube.com/watch?v=l3Bt4VrObiY)
 - [Unity Tutorial - Hyper casual game [ Part 4 ]](https://www.youtube.com/watch?v=L5CEESlTx2k)
-- [Unity Tutorial - Hyper casual game [ Part 3  ]](https://www.youtube.com/watch?v=7JuqoLWHc6s)
 <!-- YOUTUBE:END -->
 
 ---
