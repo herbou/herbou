@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hamza Herbou | YouTube" width="25px" src="https://img.icons8.com/ios-filled/50/4a90e2/youtube-play.png" />][youtube]
-[<img align="left" alt="Hamza Herbou | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hamza Herbou | YouTube" width="25px" src="https://img.icons8.com/ios-filled/50/fa314a/youtube-play.png" />][youtube]
+[<img align="left" alt="Hamza Herbou | LinkedIn" width="25px" src="https://img.icons8.com/ios-filled/50/fa314a/linkedin.png" />][linkedin]
 [<img align="left" alt="Hamza Herbou | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Hamza Herbou | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Hamza Herbou | Dribbble" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
