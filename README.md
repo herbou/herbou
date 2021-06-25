@@ -4,13 +4,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hamza Herbou | YouTube" width="20px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/youtube-play.png" />][youtube]
-[<img align="left" alt="Hamza Herbou | LinkedIn" width="20px" src="https://img.icons8.com/fluent-systems-filled/50/0077b5/linkedin.png" />][linkedin]
-[<img align="left" alt="Hamza Herbou | Instagram" width="20px" src="https://img.icons8.com/material-outlined/24/aaaaaa/instagram-new--v1.png" />][instagram]
-[<img align="left" alt="Hamza Herbou | Facebook" width="20px" src="https://img.icons8.com/ios-glyphs/30/4267B2/facebook-new.png" />][facebook]
-[<img align="left" alt="Hamza Herbou | Dribbble" width="20px" src="https://img.icons8.com/fluent-systems-filled/48/ea4c89/dribbble.png" />][dribbble]
-[<img align="left" alt="Hamza Herbou | Behance" width="20px" src="https://img.icons8.com/fluent-systems-filled/50/053eff/behance.png" />][behance]
-[<img align="left" alt="Hamza Herbou | Codepen" width="20px" src="https://img.icons8.com/ios-filled/50/888888/codepen.png" />][codepen]
+[<img align="left" alt="Hamza Herbou | YouTube" width="18px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/youtube-play.png" />][youtube]
+[<img align="left" alt="Hamza Herbou | LinkedIn" width="18px" src="https://img.icons8.com/fluent-systems-filled/50/0077b5/linkedin.png" />][linkedin]
+[<img align="left" alt="Hamza Herbou | Instagram" width="18px" src="https://img.icons8.com/material-outlined/24/aaaaaa/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="Hamza Herbou | Facebook" width="18px" src="https://img.icons8.com/ios-glyphs/30/4267B2/facebook-new.png" />][facebook]
+[<img align="left" alt="Hamza Herbou | Dribbble" width="18px" src="https://img.icons8.com/fluent-systems-filled/48/ea4c89/dribbble.png" />][dribbble]
+[<img align="left" alt="Hamza Herbou | Behance" width="18px" src="https://img.icons8.com/fluent-systems-filled/50/053eff/behance.png" />][behance]
+[<img align="left" alt="Hamza Herbou | Codepen" width="18px" src="https://img.icons8.com/ios-filled/50/888888/codepen.png" />][codepen]
 
 <br />
 
