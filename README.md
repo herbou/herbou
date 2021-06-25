@@ -26,9 +26,6 @@
 <!-- YOUTUBE:END -->
 
 ---
-<img align="left" alt="hamza herbou Github Stats" src="https://github-readme-stats.vercel.app/api?username=herbou&show_icons=true&hide_border=true" />
-
-
 [youtube]: https://youtube.com/hamza-herbou
 [instagram]: https://instagram.com/hamza_herbou
 [linkedin]: https://www.linkedin.com/in/hamza-herbou-a39955152/
