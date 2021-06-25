@@ -4,13 +4,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hamza Herbou | YouTube" width="25px" src="https://img.icons8.com/filled/50/fa314a/youtube-play.png" />][youtube]
-[<img align="left" alt="Hamza Herbou | LinkedIn" width="25px" src="https://img.icons8.com/filled/50/fa314a/linkedin.png" />][linkedin]
-[<img align="left" alt="Hamza Herbou | Instagram" width="25px" src="https://img.icons8.com/filled/50/fa314a/instagram.png" />][instagram]
-[<img align="left" alt="Hamza Herbou | Facebook" width="25px" src="https://img.icons8.com/filled/50/fa314a/facebook.png" />][facebook]
+[<img align="left" alt="Hamza Herbou | YouTube" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/youtube-play.png" />][youtube]
+[<img align="left" alt="Hamza Herbou | LinkedIn" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/linkedin.png" />][linkedin]
+[<img align="left" alt="Hamza Herbou | Instagram" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/instagram.png" />][instagram]
+[<img align="left" alt="Hamza Herbou | Facebook" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/facebook.png" />][facebook]
 [<img align="left" alt="Hamza Herbou | Dribbble" width="25px" src="https://img.icons8.com/fluent-systems-filled/48/fa314a/dribbble.png" />][dribbble]
-[<img align="left" alt="Hamza Herbou | Behance" width="25px" src="https://img.icons8.com/filled/50/fa314a/behance.png" />][behance]
-[<img align="left" alt="Hamza Herbou | Codepen" width="25px" src="https://img.icons8.com/filled/50/fa314a/codepen.png" />][codepen]
+[<img align="left" alt="Hamza Herbou | Behance" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/behance.png" />][behance]
+[<img align="left" alt="Hamza Herbou | Codepen" width="25px" src="https://img.icons8.com/fluent-systems-filled/50/fa314a/codepen.png" />][codepen]
 
 <br />
 
