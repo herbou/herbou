@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Responsive Fortune Spin Wheel - Unity Tutorial](https://www.youtube.com/watch?v=jZ_cuxTPPsA)
 - [Unity Tutorial - Easy Popup integration - Free Package](https://www.youtube.com/watch?v=TL8OQ8tc-gs)
 - [Parchisi clone made with Unity #shorts](https://www.youtube.com/watch?v=y--TnirhBS4)
 - [Dots and Boxes game made with Unity #shorts](https://www.youtube.com/watch?v=bJ83iYe30_k)
 - [Mega Cubes Game - Made with Unity  #shorts](https://www.youtube.com/watch?v=l3Bt4VrObiY)
-- [Unity Tutorial - Hyper casual game [ Part 4 ]](https://www.youtube.com/watch?v=L5CEESlTx2k)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/hamza-herbou
