@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Easy Swipe Detection in Unity (Mobiles & Desktop)](https://www.youtube.com/watch?v=g0GmovbaCRE)
 - [Unity Tabs UI  ( No Coding )](https://www.youtube.com/watch?v=p9kRAdh_3Ks)
 - [Responsive Fortune Spin Wheel - Unity Tutorial](https://www.youtube.com/watch?v=jZ_cuxTPPsA)
 - [Unity Tutorial - Easy Popup integration - Free Package](https://www.youtube.com/watch?v=TL8OQ8tc-gs)
 - [Parchisi clone made with Unity #shorts](https://www.youtube.com/watch?v=y--TnirhBS4)
-- [Dots and Boxes game made with Unity #shorts](https://www.youtube.com/watch?v=bJ83iYe30_k)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/hamza-herbou
