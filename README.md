@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Unity Progress UI - Add a loading window to your game](https://www.youtube.com/watch?v=sipdow-FAgk)
+- [UI child element fit inside its parent &lpar; Aspect Ratio Fitter &rpar; - Unity Tips](https://www.youtube.com/watch?v=UMYPiO_2VB8)
+- [Make your UI look same in different screens [ Unity Tips ]](https://www.youtube.com/watch?v=RXbY6GNonY4)
 - [Object pooling in Unity - Increase your game performance](https://www.youtube.com/watch?v=RXp72aOdlXM)
 - [Random spawner with probabilities - Unity tutorial](https://www.youtube.com/watch?v=Hy6Gxtk0QwY)
-- [Create Roller Splat game - Unity tutorial [ Part 4 ]](https://www.youtube.com/watch?v=3tMkbCqm5dg)
-- [Create Roller Splat game - Unity tutorial [ Part 3 ]](https://www.youtube.com/watch?v=-r-BnzatGdc)
-- [Create Roller Splat game - Unity tutorial [ Part 2 ]](https://www.youtube.com/watch?v=hBcUkHEoSgg)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/hamza-herbou
