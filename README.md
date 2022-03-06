@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Trailer](https://www.youtube.com/watch?v=P22l1pLBiNg)
 - [Show Console messages inside your game - Unity Tutorial](https://www.youtube.com/watch?v=AE08wINwuj4)
 - [Unity Progress UI - Add a loading window to your game](https://www.youtube.com/watch?v=sipdow-FAgk)
 - [UI child element fit inside its parent &lpar; Aspect Ratio Fitter &rpar; - Unity Tips](https://www.youtube.com/watch?v=UMYPiO_2VB8)
 - [Make your UI look same in different screens [ Unity Tips ]](https://www.youtube.com/watch?v=RXbY6GNonY4)
+- [Object pooling in Unity - Increase your game performance](https://www.youtube.com/watch?v=RXp72aOdlXM)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/hamza-herbou
