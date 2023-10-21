@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Show Console messages inside your game - Unity Tutorial](https://www.youtube.com/watch?v=AE08wINwuj4)
-- [Unity Progress UI - Add a loading window to your game](https://www.youtube.com/watch?v=sipdow-FAgk)
-- [UI child element fit inside its parent &lpar; Aspect Ratio Fitter &rpar; - Unity Tips](https://www.youtube.com/watch?v=UMYPiO_2VB8)
-- [Make your UI look same in different screens [ Unity Tips ]](https://www.youtube.com/watch?v=RXbY6GNonY4)
-- [Object pooling in Unity - Increase your game performance](https://www.youtube.com/watch?v=RXp72aOdlXM)
+- [How to make a Hyper Casual car parking game in unity - Part 09](https://www.youtube.com/watch?v=CcbaomCQfRk)
+- [How to make a Hyper Casual car parking game in unity - Part 08](https://www.youtube.com/watch?v=JZLl01ouDrQ)
+- [How to make a Hyper Casual car parking game in unity - Part 06](https://www.youtube.com/watch?v=rw2oP3f_96M)
+- [How to make a Hyper Casual car parking game in unity - Part 07](https://www.youtube.com/watch?v=JjTULbnov3s)
+- [How to make a Hyper Casual car parking game in unity - Part 05](https://www.youtube.com/watch?v=zSFPZn1DRKY)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/hamza-herbou
