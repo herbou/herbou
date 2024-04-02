@@ -4,8 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hamza Herbou" width="28px" src="[https://img.icons8.com/fluent-systems-filled/50/fa314a/youtube-play.png](https://raw.githubusercontent.com/herbou/me/main/favicon.png)![image](https://github.com/herbou/herbou/assets/35342314/530afbe6-3d3c-4568-bd09-35abacd1d466)
-" />][portfolio]
+[<img align="left" alt="Hamza Herbou" width="28px" src="https://github.com/herbou/me/blob/main/profile-pic.png?raw=true" />][portfolio] <a href="https://herbou.github.io/me">Personal Page.</a>
 
 <br />
 
@@ -20,5 +19,5 @@
 - [How to make a Hyper Casual car parking game in unity - Part 08](https://www.youtube.com/watch?v=JZLl01ouDrQ)
 <!-- YOUTUBE:END -->
 
-[portfolio]: https://youtube.com/hamza-herbou
+[portfolio]: https://herbou.github.io/me
 
