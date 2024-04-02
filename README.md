@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hamza Herbou" width="28px" src="https://github.com/herbou/me/blob/main/profile-pic.png?raw=true" />][portfolio] <a href="https://herbou.github.io/me">Personal Page.</a>
+[<img align="left" alt="Hamza Herbou" width="28px" src="https://github.com/herbou/me/blob/main/profile-pic.png?raw=true" />][portfolio] <a href="https://herbou.github.io/me" target="_blank">Personal Page.</a>
 
 <br />
 
