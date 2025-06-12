@@ -12,9 +12,9 @@
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Arrange UI elements in a circular form in Unity    #madewithunity #unity](https://www.youtube.com/shorts/WrGjhH_mjW4)
-- [Upcoming tutorial : Crosswords game](https://www.youtube.com/shorts/hqXnzEBENgg)
-- [How to return multiple values from a function in C#    #shorts](https://www.youtube.com/shorts/pKxHhBhX72Q)
+- [Arrange UI elements in a circular form in Unity    #madewithunity #unity](https://www.youtube.com/watch?v=WrGjhH_mjW4)
+- [Upcoming tutorial : Crosswords game](https://www.youtube.com/watch?v=hqXnzEBENgg)
+- [How to return multiple values from a function in C#    #shorts](https://www.youtube.com/watch?v=pKxHhBhX72Q)
 - [How to make a Hyper Casual car parking game in unity - Part 09](https://www.youtube.com/watch?v=CcbaomCQfRk)
 - [How to make a Hyper Casual car parking game in unity - Part 08](https://www.youtube.com/watch?v=JZLl01ouDrQ)
 <!-- YOUTUBE:END -->
